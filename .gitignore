@@ -1,0 +1,7 @@
+*log
+*.old
+DOM-SNfind-checker.py
+*.draft
+*.cli.py
+sort.py*
+__pycache__
